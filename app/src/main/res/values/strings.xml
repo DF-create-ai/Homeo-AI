@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Healthcare Automation</string>
+    <string name="enter_symptoms">Enter symptoms...</string>
+    <string name="analyze_symptoms">Analyze Symptoms</string>
+</resources>
